@@ -1,32 +1,32 @@
-# 🚀 CollabBoard – Full-Stack Kanban Project Manager
+# CollabBoard – Full-Stack Kanban Project Manager
 
 A fully functional Kanban-style task management platform built with React + Node.js + Prisma and deployed on AWS (Elastic Beanstalk + S3).
 
-## ✨ Features
+## Features
 
-### 🔐 Authentication
+### Authentication
 - Signup & Login using JWT
 - Secure protected routes
 - Per-user data isolation
 
-### 📁 Projects
+### Projects
 - Create projects
 - View project-specific dashboards
 - Organized clean backend structure
 
-### 📝 Tasks
+### Tasks
 - Create tasks with title + description
 - Persisted using Prisma ORM (SQLite or Postgres)
 - Filter tasks by project
 
-### 📊 Kanban Board
+### Kanban Board
 - Columns: **Todo → In Progress → Done**
 - Move tasks between statuses
 - Real-time updates in UI
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - React + Vite
@@ -43,5 +43,4 @@ A fully functional Kanban-style task management platform built with React + Node
 
 ---
 
-## 🚢 Deployment Architecture
 
