@@ -180,7 +180,7 @@ function App() {
     return (
       <div className="app auth-screen">
         <div className="card auth-card">
-          <h1 className="app-title">CollabBoard</h1>
+          <h1 className="app-title">CollabBoardd</h1>
           <p className="app-subtitle">Simple collaborative project & task manager</p>
 
           <div className="auth-toggle">
